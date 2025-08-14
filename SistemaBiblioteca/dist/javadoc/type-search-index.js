@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Forms","l":"Acerca"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Clases","l":"consultas"},{"p":"<Unnamed>","l":"ProyectoBiblioteca"}];updateSearchResults();
