@@ -44,7 +44,6 @@ Campos a llenar al agregar un libro:
 - Título: Nombre del libro.
 - Editorial: Editorial que publicó el libro.
 - Año: Año de publicación.
-- Cantidad: Número de copias disponibles del libro.
 
 Cómo usarlo:
 1. Ingrese al módulo de Libros.
